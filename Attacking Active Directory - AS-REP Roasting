@@ -1,4 +1,4 @@
-Kullanıcı üzernde do not require Kerberos preauthentication (Kerberos ön kimlik doğrulaması gerektirmez) seçilmiş ise 
+Kullanıcı üzernde do not require Kerberos preauthentication (Kerberos ön kimlik doğrulaması gerektirmez) "true" olarak seçilmiş ise 
 
 GetNPUsers.py domain.local/muslum -dc-ip=192.168.1.45 : Tgt ile oluşturulmuş ticket elde edilir.
 
